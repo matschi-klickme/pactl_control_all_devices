@@ -12,7 +12,7 @@ a simple call to the script is enough.
 For 
 	pactl_all_sinks_set.sh [VOLUME]  (default: '+5%')
 	
-	 [pactl set-sink-volume](https://www.gsp.com/cgi-bin/man.cgi?section=1&topic=pactl) 
+	see [pactl set-sink-volume](https://www.gsp.com/cgi-bin/man.cgi?section=1&topic=pactl) 
 
 
 ## Sources
