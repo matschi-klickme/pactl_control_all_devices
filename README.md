@@ -3,16 +3,15 @@ Just some simple scripts to manage all pulseaudio devices instead of just the de
 
 ## Usage
 For 
-	pactl_all_inputs_toggle_mute.sh
-	pactl_all_sinks_set_100.sh
-	pactl_all_sinks_toggle_mute.sh
+* pactl_all_inputs_toggle_mute.sh
+* pactl_all_sinks_set_100.sh
+* pactl_all_sinks_toggle_mute.sh
 
 a simple call to the script is enough. 
 
 For 
-	pactl_all_sinks_set.sh [VOLUME]  (default: '+5%')
-	
-	see [pactl set-sink-volume](https://www.gsp.com/cgi-bin/man.cgi?section=1&topic=pactl) 
+* pactl_all_sinks_set.sh [VOLUME]  (default: '+5%')
+see [pactl set-sink-volume](https://www.gsp.com/cgi-bin/man.cgi?section=1&topic=pactl) 
 
 
 ## Sources
